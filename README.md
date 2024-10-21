@@ -3,6 +3,7 @@ Hasta Kayıt ve Muayene Sistemi(Patient Registration and Examination System)
 ***Data Structes used in this project***
 
 #TURKİSH
+
 "Hasta Kayıt ve Muayene Sistemi", hasta kayıtlarının düzenlenmesi, önceliklendirilmesi ve muayene sıralamasının yapılması için tasarlanmış bir programdır. Bu program, sağlık kurumlarında hasta takibini kolaylaştırmak ve verimliliği artırmak amacıyla geliştirilmiştir.
 
 Program, hasta verilerini bir dosyadan okuyarak hastaları listeleyebilir ve önceliklerine göre sıralayabilir. Hasta kayıt saati, hasta önceliği, muayene süresi gibi faktörlere dayanarak bir öncelik puanı hesaplar. Ardından, hastaları bu öncelik puanına göre sıralar ve muayene sırasını belirler.
